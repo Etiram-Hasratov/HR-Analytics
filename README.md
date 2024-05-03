@@ -19,3 +19,5 @@ Excel CSV faylları ilə işləmək təcrübəsi.
 Məlumatların təhlili və vizuallaşdırılması üzrə əsas biliklər.
 Power BI və ya oxşar məlumat təhlili alətindən istifadə etmək bacarığı.
 Ünsiyyət bacarıqları və hesabat vermə bacarığı.
+
+![HR Analytics](https://github.com/Etiram-Hasratov/HR-Analytics/assets/115147838/94c415a5-51c7-4d37-b83a-6baafc4582a2)
